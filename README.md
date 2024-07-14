@@ -1,4 +1,4 @@
 # Demo
-I am practicing
+I am practicing Git Commands
 <br>
 Author - Farhan Akhtar
